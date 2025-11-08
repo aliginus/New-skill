@@ -1,0 +1,9 @@
+<mod name="[ BOOST POPULAR SKILL ]" author="zein" color="Color(0.7,0,0.3)">
+<Hooks directory="Hooks">
+
+<hook file="localizationmanager.lua" source_file="lib/managers/localizationmanager"/>
+
+<hook file="skilltreetweakdata.lua" source_file="lib/tweak_data/skilltreetweakdata"/>
+
+</Hooks>
+</mod>
